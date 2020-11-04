@@ -49,7 +49,7 @@ section{
 /*Section One Style*/
 .section-one{
     width: 100%;
-    background:linear-gradient(rgba(7, 7, 7, 0.664),rgba(24, 24, 24, 0.418)), url("img/cover-banner-img.jpg");
+    background:linear-gradient(rgba(7, 7, 7, 0.664),rgba(24, 24, 24, 0.418)), url("cover-banner-img.jpg");
     padding: 50px 0px;
 }
 .header-one-left-side h1{
@@ -312,7 +312,7 @@ section{
 }
 /*Middle Banaar */
 .middle-banner{
-    background:linear-gradient(rgba(7, 7, 7, 0.664),rgba(24, 24, 24, 0.418)), url("img/fotter-cover-img.jpg");
+    background:linear-gradient(rgba(7, 7, 7, 0.664),rgba(24, 24, 24, 0.418)), url("fotter-cover-img.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
